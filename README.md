@@ -1,2 +1,2 @@
-# Jump-animation
-some differetn ways to create jump animations
+# Jump animation
+some different ways to make jump animations
